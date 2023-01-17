@@ -3,7 +3,8 @@
 ## Events
 
 ### 2022/23
-* 2022-10-14 - Meetup + Social: panel discussion with fresh PhDs
+* 2023-01-19 - Social and Sauna: Reflections and resolutions of 2022/23
+* 2022-10-14 - Meetup + Social: panel discussion with fresh PhDs: Kaido Lepik, PhD; Liis Kolberg, PhD; Oriol Corcoll, to defend.
 
 ### 2021/22
 * 2022-05-04 - Hybrid Meetup: PhD that Makes you Succeed in Academia, talk by Jaan Aru, PhD
