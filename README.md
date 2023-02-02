@@ -3,6 +3,7 @@
 ## Events
 
 ### 2022/23
+* 2023-02-23 - Workshop: Mental health perspectives on phd student life, with Sharipha Rzayeva (UT psychologist)
 * 2023-01-19 - Social and Sauna: Reflections and resolutions of 2022/23
 * 2022-10-14 - Meetup + Social: panel discussion with fresh PhDs: Kaido Lepik, PhD; Liis Kolberg, PhD; Oriol Corcoll, to defend.
 
