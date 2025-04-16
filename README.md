@@ -1,6 +1,7 @@
 # University of Tartu Computer Science PhD Events
 
 ## Future Events
+* 2025-04-22 - Social and Sauna
 
 ## Past Events
 
