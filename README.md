@@ -5,17 +5,16 @@
 
 ## Past Events
 
-### 2024/25
+### 2025
 * 2025-03-11 - Social and Sauna
-* 2024-12-11 - Exploring Opportunities Beyond Academia. PhDs and Entrepreneurship by Radu Sion. From PhD Research Project to Global Company: The Story of Apromore by Marlon Dumas. Intellectual Property Demystified: Ownership, Costs, and Collaborative Strategies by Heisi Kurig
-* 2024-10-31 - Halloween Event. Pumpkin carving, scary science, sauna, costume-friendly.
 
 ### 2024
+* 2024-12-11 - Exploring Opportunities Beyond Academia. PhDs and Entrepreneurship by Radu Sion. From PhD Research Project to Global Company: The Story of Apromore by Marlon Dumas. Intellectual Property Demystified: Ownership, Costs, and Collaborative Strategies by Heisi Kurig
+* 2024-10-31 - Halloween Event. Pumpkin carving, scary science, sauna, costume-friendly.
 * 2024-05-23 - Board game and Sauna: One Hundred Choices of the Estonian People
 * 2024-03-27 - Workshop: Mindfulness and Art for Well-being by Renato Perotto Machado and Maria Laanelepp
 * 2024-02-29 - Workshop: Navigating Academia's Wealth (funding your research) by Heisi Kurig
 * 2024-01-14 - Social and Sauna
-* 
 
 ### 2023
 
