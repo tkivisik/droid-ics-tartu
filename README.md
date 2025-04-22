@@ -9,12 +9,12 @@
 * 2025-08-18 - 2025-08-21 - We recommend: [ESSCaSS 2025](https://courses.cs.ut.ee/t/esscass2025)
 * 2025-06-... - TBD
 * 2025-05-... - TBD by Mihkel and team
-* 2025-04-22 - Social and Sauna
+* 2025-04-22 - Social and Sauna (Spring edition)
 
 ## Past Events
 
 ### 2025
-* 2025-03-11 - Social and Sauna
+* 2025-03-11 - Social and Sauna (Insight edition)
 
 ### 2024
 * 2024-12-11 - Exploring Opportunities Beyond Academia. PhDs and Entrepreneurship by Radu Sion. From PhD Research Project to Global Company: The Story of Apromore by Marlon Dumas. Intellectual Property Demystified: Ownership, Costs, and Collaborative Strategies by Heisi Kurig
