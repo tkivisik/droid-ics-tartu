@@ -8,7 +8,7 @@
 * 2025-09-... - TBD
 * 2025-08-18 - 2025-08-21 - We recommend: [ESSCaSS 2025](https://courses.cs.ut.ee/t/esscass2025)
 * 2025-06-... - TBD
-* 2025-05-... - TBD
+* 2025-05-... - TBD by Mihkel and team
 * 2025-04-22 - Social and Sauna
 
 ## Past Events
