@@ -1,4 +1,6 @@
-# University of Tartu Computer Science PhD Events
+# DROID
+
+DROID (PhD Events) is swarm intelligence of PhD students at the Institute of Computer Science, University of Tartu. DROID can mean doctoral return on investment doubled, or it can mean something different. DROID is by the PhD students for the PhD students.
 
 ## Future Events
 
